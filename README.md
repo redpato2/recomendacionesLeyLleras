@@ -5,4 +5,4 @@ En este repositorio encontrarás el trabajo realizado por la Fundación Karisma,
 
 Es un trabajo en progreso que está abierto a comentarios hasta el próximo 15 de enero. 
 
-Para enviar tus comentarios y participar de la posterior disución, crea una cuenta en GitHub, agregate al proyecto, edita tu versión y envíala.
+Para enviar tus comentarios y participar de la posterior disución, crea una cuenta en GitHub, agregate al proyecto, edita tu versión y envíala usando el boton de **Commit changes** al final del texto.

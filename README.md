@@ -19,6 +19,18 @@ Ten en cuenta que la etapa de comentarios inicia el 11 de diciembre de 2014 y ci
 El 10 de febrero entregaremos el documento final al gobierno y lo publicaremos en Internet, en los sitios web de las organizaciones y colectivos vinculados con el proyecto.
 
 ## Breve explicación del uso de GitHub
+1. crear la cuenta
+2. entrar al repositorio (direccion redpatodos)
+3. hacer fork
+4. entrar al archivo que se va a modificar
+5. editar
+6. grabar // hacer commit // se puede hacer tantas veces como sea necesario hasta que tenga una versión que quiera compartir para comentarios
+7. verificar que el cambio quedó grabado
+8. volver a su repositorio
+9. comparar los cambios (diff con el original) en rojo lo que se borra en verde lo nuevo
+10. create pull request
+11. enviar el pull request // queda como un comentario al que se puede comentar
+
 
 Para enviar tus comentarios y participar de la posterior discusión, crea una cuenta en GitHub, haz un fork del proyecto, edita tu versión y luego publícala usando el botón de **Commit changes**.
 

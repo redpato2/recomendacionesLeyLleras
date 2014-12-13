@@ -1,12 +1,12 @@
 #Recomendaciones para la garantía de los derechos humanos en una ley que regule la responsabilidad de intermediarios de internet en colombia (ley lleras)
 
-En 2011, en su informe anual a la Asamblea General de la ONU, el Relator Especial de las Naciones Unidas (ONU) para la Libertad de Opinión y de Expresión, Frank La Rue, afirmó [ˆ1] que uno de los principales riesgos para el ejercicio de la libertad de expresión en Internet es la exigencia que se viene haciendo a los gobiernos a través de acuerdos comerciales (especialmente a través de los tratados de libre comercio -TLC) para implementar leyes dirigidas a los intermediarios de Internet. Con estas se busca que los intermediarios los que controlen el contenido generado por sus usuarios, con el fin de identificar violaciones de los derechos de autor. El mecanismo de estas leyes es el de ofrecer un “puerto seguro” para los intermediarios de Internet si aplican un sistema de control. 
+En 2011, en su informe anual a la Asamblea General de la ONU, el Relator Especial de las Naciones Unidas (ONU) para la Libertad de Opinión y de Expresión, Frank La Rue, afirmó [1] que uno de los principales riesgos para el ejercicio de la libertad de expresión en Internet es la exigencia que se viene haciendo a los gobiernos a través de acuerdos comerciales (especialmente a través de los tratados de libre comercio -TLC) para implementar leyes dirigidas a los intermediarios de Internet[2]. Con estas se busca que los intermediarios los que controlen el contenido generado por sus usuarios, con el fin de identificar violaciones de los derechos de autor. El mecanismo de estas leyes es el de ofrecer un “puerto seguro” para los intermediarios de Internet si aplican un sistema de control. 
 
-Precisamente, pocos meses antes de que se conociera esta declaración, también durante 2011, el gobierno colombiano presentó un proyecto de ley que buscaba implementar un sistema de “Notificación y Retiro” de contenidos a cargo de los *proveedores de servicio de Internet* (PSI) del país, que tenía como modelo la ley de EEUU (*Digital Millennium Copyright Act* -DMCA). La ley se justificó como parte de las obligaciones del TLC firmado entre Colombia y los EEUU. El proyecto de ley fue cuestionado por la sociedad civil y desencadenó una resistencia en contra de la que se denominó como la “Ley Lleras 1”. Después de varios meses de polémica, el proyecto se archivó en el Congreso con argumentos que se referían a los riesgos que suponía para el ejercicio de la libertad de expresión. 
+Precisamente, pocos meses antes de que se conociera esta declaración, también durante 2011, el gobierno colombiano presentó un proyecto de ley que buscaba implementar un sistema de “Notificación y Retiro” de contenidos a cargo de los *proveedores de servicio de Internet* (PSI) del país, que tenía como modelo la ley de EEUU (*Digital Millennium Copyright Act* -DMCA). La ley se justificó como parte de las obligaciones del TLC firmado entre Colombia y los EEUU. El proyecto de ley fue cuestionado por la sociedad civil y desencadenó una resistencia en contra de la que se denominó como la “Ley Lleras 1”[3]. Después de varios meses de polémica, el proyecto se archivó en el Congreso con argumentos que se referían a los riesgos que suponía para el ejercicio de la libertad de expresión. 
 
 Existe para Colombia la obligación de implementar una ley que, en principio, es positiva, pues da seguridad jurídica a los PSI frente al cumplimiento de las normas de derecho de autor. Es decir, se pretende crear un sistema de retiro y/o bloqueo de contenidos en Internet a cargo de los intermediarios (aprovechando que ellos son los que ofrecen los diferentes servicios que garantizan a los usuarios la conexión a Internet), a cambio de ofrecerles inmunidad por cualquier posible responsabilidad derivada de la infracción que puedan cometer sus usuarios. Se trata de una obligación del país que ya se encuentra vencida pero que debe ser ampliamente discutida por la ciudadanía para establecer la forma como se desarrollará. Estamos convencidos que puede cumplirse la obligación dentro de un marco garantista de derechos. 
 
-Con este propósito, la Fundación [Karisma](http://karisma.org.co), con el apoyo de la Fundación para Libertad de Prensa ([FLIP](http://flip.org.co)), aprovechando la discusión internacional en la materia y con el soporte del colectivo RedPaTodos, hemos desarrollado una serie de recomendaciones que sugerimos considerar en el momento de desarrollar una regulación para la exoneración de responsabilidad a los proveedores de servicio de Internet en el cumplimiento del TLC con EEUU.
+Con este propósito, la Fundación [Karisma](http://karisma.org.co), con el apoyo de la Fundación para Libertad de Prensa ([FLIP](http://flip.org.co)), aprovechando la discusión internacional[4] en la materia y con el soporte del colectivo RedPaTodos, hemos desarrollado una serie de recomendaciones que sugerimos considerar en el momento de desarrollar una regulación para la exoneración de responsabilidad a los proveedores de servicio de Internet en el cumplimiento del TLC con EEUU.
 
 
 * * *
@@ -30,7 +30,7 @@ Los sistemas de puerto seguro como el de notificación y retiro de la DMCA de EE
 
 Establecer la responsabilidad de los PSI por el uso de los contenidos que efectúen sus usuarios a través de sus sistemas o redes puede tornarse en un incentivo para que estos intermediarios, en la búsqueda de librar a toda costa su responsabilidad penal, civil o administrativa, monitoreen la actividad de sus usuarios con el fin de detectar infracciones a los derechos de autor.
 
-Este tipo de acciones vulneran el derecho a la intimidad de los usuarios, generan un efecto disuasivo en el derecho a la libertad de expresión y de información, causando que las personas se inhiban de realizar actividades que hoy en día se consideran como cotidianas en Internet, convirtiéndose en una forma de autocensura y amenazando la neutralidad de la red. El contenido patrimonial del derecho de autor no tiene carácter de derecho fundamental, por tal motivo no puede ponerse por encima de otros derechos que si tienen esta naturaleza. 
+Este tipo de acciones vulneran el derecho a la intimidad de los usuarios, generan un efecto disuasivo en el derecho a la libertad de expresión y de información, causando que las personas se inhiban de realizar actividades que hoy en día se consideran como cotidianas en Internet, convirtiéndose en una forma de autocensura[5] y amenazando la neutralidad de la red[6]. El contenido patrimonial del derecho de autor no tiene carácter de derecho fundamental, por tal motivo no puede ponerse por encima de otros derechos que si tienen esta naturaleza. 
 
 ##4. Una norma de puerto seguro no debe requerir la terminación de las cuentas de internet en respuesta a reclamaciones por infracciones al derecho de autor
 
@@ -42,7 +42,7 @@ El TLC incluye la obligación de terminar cuentas también para usuarios reincid
 
 Si se siguiera la legislación chilena en este aspecto se cumpliría con la obligación del acuerdo comercial pero dando una mayor protección al usuario y reduciendo las cargas para el PSI.
 
-En todo caso, se debe anotar que una disposición de este tipo ya fue analizada y rechazada por la Corte Constitucional francesa en su revisión de la Ley Hadopi. La Corte encontró que un procedimiento de este tipo violaba la presunción de inocencia al no otorgarle al supuesto infractor la posibilidad de defenderse; a su vez, puesto que la la sanción de terminación de cuentas, prevista también por esa ley, podría afectar el derecho a la libertad de expresión.
+En todo caso, se debe anotar que una disposición de este tipo ya fue analizada y rechazada por la Corte Constitucional francesa en su revisión de la Ley Hadopi[7]. La Corte encontró que un procedimiento de este tipo violaba la presunción de inocencia al no otorgarle al supuesto infractor la posibilidad de defenderse; a su vez, puesto que la la sanción de terminación de cuentas, prevista también por esa ley, podría afectar el derecho a la libertad de expresión.
 
 ##5. Una ley de puerto seguro debe garantizar la protección al debido proceso de los usuarios
 
@@ -80,7 +80,7 @@ Disposiciones de este tipo mejoran la protección al debido proceso y garantizan
 
 La ley colombiana de derecho de autor es la Ley 23 de 1982, con ajustes en la Decisión Andina 351 de 1993, no fue pensada para los retos del entorno digital de los titulares, tampoco de los usuarios. Por tanto, una ley de puerto seguro no puede ser simplemente una adición a la ley existente, como lo hiciera Chile, debe verse como la oportunidad para actualizar y equilibrar un sistema en forma integral, no hay nada en el TLC que prevenga a Colombia de tomar este camino. 
 
-Aumentar los mecanismos de cumplimiento del sistema de derecho de autor sin equilibrarlo con las garantías para el ejercicio de otros derechos por los usuarios (acceso al conocimiento, información, educación, ciencia, libertad de expresión, etcétera) amplía los desequilibrios del sistema especialmente en el entorno digital (que no ha sido actualizado) y por tanto unos no deben ir sin los otros. Por eso consideramos, a tono con lo que venimos discutiendo desde 2011, que Colombia debe hacer una reforma integral. Como resumen de lo que la reforma debe considerar en especial en relación con una ley de puerto seguro creemos que se deben considerar los siguientes puntos en concreto:
+Aumentar los mecanismos de cumplimiento del sistema de derecho de autor sin equilibrarlo con las garantías para el ejercicio de otros derechos por los usuarios (acceso al conocimiento, información, educación, ciencia, libertad de expresión, etcétera) amplía los desequilibrios del sistema especialmente en el entorno digital (que no ha sido actualizado) y por tanto unos no deben ir sin los otros. Por eso consideramos, a tono con lo que venimos discutiendo desde 2011[8], que Colombia debe hacer una reforma integral. Como resumen de lo que la reforma debe considerar en especial en relación con una ley de puerto seguro creemos que se deben considerar los siguientes puntos en concreto:
 
   a. Incluir una cláusula abierta al estilo del *fair use* (uso justo) de EEUU. 
 
@@ -88,9 +88,9 @@ Aumentar los mecanismos de cumplimiento del sistema de derecho de autor sin equi
 
   b. Aumentar la lista expresa de excepciones y limitaciones
 
-  Una reforma integral en materia de derecho de autor supone trabajar con diversos sectores para actualizar la normativa, a fin de lograr un equilibrio entre los intereses legítimos de los titulares de derechos de autor, y las garantías jurídicas para el ejercicio de los derechos fundamentales de todos. La ley debe evolucionar al ritmo en que lo hace la sociedad, es decir una verdadera modificación al régimen de excepciones debe considerar la realización de una consulta ciudadana integral, como ha ocurrido en diferentes partes del mundo, que permita saber qué tipo de usos son considerados ahora como normales, cuáles son prácticas inofensivas con respecto al ejercicio de los derechos patrimoniales.
+  Una reforma integral en materia de derecho de autor supone trabajar con diversos sectores para actualizar la normativa, a fin de lograr un equilibrio entre los intereses legítimos de los titulares de derechos de autor, y las garantías jurídicas para el ejercicio de los derechos fundamentales de todos. La ley debe evolucionar al ritmo en que lo hace la sociedad, es decir una verdadera modificación al régimen de excepciones debe considerar la realización de una consulta ciudadana integral, como ha ocurrido en diferentes partes del mundo[9], que permita saber qué tipo de usos son considerados ahora como normales, cuáles son prácticas inofensivas con respecto al ejercicio de los derechos patrimoniales.
 
-  En Colombia hubo un proceso de consulta con mesas de trabajo que no puede calificarse de abierto, en la medida en que no fue documentado públicamente, ni fue posible conocer los comentarios de todos los participantes, ni ha tenido conclusión (no ha habido retroalimentación del proceso hasta ahora por parte del gobierno). Por tanto, aún existe la oportunidad de trabajar en la reforma integral.
+  En Colombia hubo un proceso de consulta con mesas de trabajo[10] que no puede calificarse de abierto, en la medida en que no fue documentado públicamente, ni fue posible conocer los comentarios de todos los participantes, ni ha tenido conclusión (no ha habido retroalimentación del proceso hasta ahora por parte del gobierno). Por tanto, aún existe la oportunidad de trabajar en la reforma integral.
 
   c. Limitar el derecho de reproducción
 
@@ -112,7 +112,7 @@ Aumentar los mecanismos de cumplimiento del sistema de derecho de autor sin equi
 
 ##7. Una ley de puerto seguro debe incluir sanciones efectivas por declaraciones falsas a sabiendas
 
-El TLC obliga a establecer sanciones por declaraciones falsas de los titulares pues se sabe que en los sistemas de notificación y retiro, especialmente aquellos no judiciales, existe un grave riesgo de abuso en las solicitudes. Este riesgo disminuye cuando es un juez el que establece que el material es infractor antes de que se de su retiro. 
+El TLC obliga a establecer sanciones por declaraciones falsas de los titulares pues se sabe que en los sistemas de notificación y retiro, especialmente aquellos no judiciales, existe un grave riesgo de abuso[11] en las solicitudes. Este riesgo disminuye cuando es un juez el que establece que el material es infractor antes de que se de su retiro. 
 
 Para contrarrestar este potencial abuso, la DMCA contiene una disposición en la sección 512 (f) que establece responsabilidad si se declara falsamente que el contenido es infractor, cuando el solicitante sabe que éste no está infringiendo. Sin embargo esa disposición no ha sido efectiva en evitar el abuso. 
 
@@ -164,7 +164,7 @@ Se debe incluir la obligación para los PSI de publicar anualmente un informe de
 
 Una ley sobre la responsabilidad de los intermediarios solo debe ocuparse de la responsabilidad civil, por consiguiente no debe ocuparse de lo penal. Asignar responsabilidad penal, o su aplicación por parte del gobierno, a terceros es una nueva idea en discusión en el terreno de la responsabilidad de intermediarios a nivel internacional.  En los Estados Unidos, ningún estatuto establece la responsabilidad penal de terceras partes por las infracciones penales al derecho de autor de los usuarios y la jurisprudencia tampoco la ha abordado así. El peligro de establecer la responsabilidad penal de terceras partes es que, en ausencia de estándares claros sobre la voluntad o inducción, la responsabilidad penal establece un sistema de responsabilidad paralelo. En consecuencia, Incluso si una empresa cumple con las disposiciones de "puerto seguro", continuará siendo penalmente responsable y la norma de exoneración en materia civil no impedirá que los intermediarios se autoprotejan y se genere mayor incentivo al retiro de contenidos incluso no infractores.  
 
-De acuerdo con el principio de mínima intervención, que rige en el sistema penal colombiano, “(...) el ejercicio de la facultad sancionatoria criminal debe operar cuando las demás alternativas de control han fallado (...) la decisión de criminalizar un comportamiento humano es la última de las sanciones posibles en el espectro de sanciones que el Estado en capacidad jurídica de imponer(...).” De acuerdo con este principio, si alguna otra rama del derecho puede controlar una determinada situación, será excesivo regularla a través del derecho penal. El caso de la responsabilidad de los PSI por infracciones realizadas por sus clientes (usuarios de internet) es objeto de regulación por el derecho administrativo o por el derecho civil, por lo que no sería recomendable establecer sanciones penales en la materia.
+De acuerdo con el principio de mínima intervención, que rige en el sistema penal colombiano, “(...) el ejercicio de la facultad sancionatoria criminal debe operar cuando las demás alternativas de control han fallado (...) la decisión de criminalizar un comportamiento humano es la última de las sanciones posibles en el espectro de sanciones que el Estado en capacidad jurídica de imponer(...).”[12] De acuerdo con este principio, si alguna otra rama del derecho puede controlar una determinada situación, será excesivo regularla a través del derecho penal. El caso de la responsabilidad de los PSI por infracciones realizadas por sus clientes (usuarios de internet) es objeto de regulación por el derecho administrativo o por el derecho civil, por lo que no sería recomendable establecer sanciones penales en la materia.
 
 Adicionalmente, establecer sanciones penales a los PSI genera algunos problemas de aplicación de las mismas. De acuerdo con el concepto restrictivo de “autor” que impera en el derecho penal colombiano, según el cual sólo es autor de una conducta punible la persona que efectivamente la haya realizado, no sería posible extender la responsabilidad penal del usuario infractor a un tercero sin cambiar todo el sistema jurídico penal, dando pie a que se presenten posibles arbitrariedades en otras materias. En efecto, si se considera autor a cualquiera que haya desplegado una conducta relacionada con un delito podría llegarse, por ejemplo, a absurdos como que se considere penalmente responsable de una violación a quien vendió la ropa que vestía la víctima en el momento de la comisión del delito.
 
@@ -172,6 +172,36 @@ El hecho de que las sanciones propias del derecho penal sean restrictivas de la 
 
 Por lo anterior, consideramos que las sanciones aplicables a los PSI en las leyes de “puerto seguro” no deben ser penales, deben limitarse a las  administrativas o civiles, es decir, consistentes en el pago de sumas de dinero, bien sea a título de multa en favor del Estado o de indemnización en favor del titular de derechos por los perjuicios que se le hayan efectivamente causado.
 
-###Notas
-[ˆ1]: A/HRC/17/27. 16 de mayo de 2011. Párr. 39 y 40. Disponible para consulta en <http://ap.ohchr.org/documents/dpage_s.aspx?m=85>
+##Anexo
 
+Repaso sobre las discusiones relacionadas con la Ley Lleras:
+
+<http://redpatodos.co/blog/un-repaso-sobre-la-ley-lleras/>
+
+***
+
+###Notas
+[1]: A/HRC/17/27. 16 de mayo de 2011. Párr. 39 y 40. Disponible para consulta en <http://ap.ohchr.org/documents/dpage_s.aspx?m=85>
+
+[2]: Los intermediarios de Internet acercan o facilitan transacciones entre terceros en Internet. Dan acceso, hospedan, transmiten o indexan contenido, productos y servicios. OECD (2011). The Role of Internet Intermediaries in Advancing Public Policy Objectives. OECD Publishing. Disponible en http://dx.doi.org/10.1787/9789264115644-en. 
+
+[3]:Proyecto de ley 241 de 2006 - Senado. Disponible en:
+<http://servoaspr.imprenta.gov.co/gacetap/gaceta.mostrar_documento?p_tipo=05&p_numero=241&p_consec=28543>
+
+[4]: La base de este documento son "Los principios de Kaminski" desarrollados por Margot Kaminski. Positive Proposals for Treatment of Online Intermediaries. PIJIP Research Paper no. 2012-05. American University Washington College of Law, Washington, DC. Disponible en: https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1029&context=research que hemos alimentado con la discusión que se ha dado en algunos foros de Internet y con la contribución de algunos miembros de RedPaTodos.
+
+[5]: Al respecto: NECESARIOS & PROPORCIONADOS: Principios Internacionales sobre la Aplicación de los Derechos humanos a la Vigilancia de las Comunicaciones. (2013). Disponibles en: <https://en.necessaryandproportionate.org/files/2014/09/17/np-booklet-2014_espanol_final_print-ready.pdf> & Article19 (2013). Principios sobre vigilancia y derechos humanos: el UNHRC debe tomar medidas respecto de la vigilancia. Disponible en: http://www.article19.org/resources.php/resource/37251/es/principios-sobre-vigilancia-y-derechos-humanos:-el-unhrc-debe-tomar-medidas-respecto-de-la-vigilancia#sthash.iLWyUA32.dpuf
+
+[6]: Cortés, Carlos. (2012). ‘Vigilancia en la red: ¿qué significa monitorear y detectar contenidos en Internet?’. Iniciativa por la Libertad de Expresión en Internet, Centro de Estudios en Libertad de Expresión de la Universidad de Palermo. p. 9. Disponible en: http://www.palermo.edu/cele/pdf/El-deseo-de-observar-la-red.pdf
+
+[7]: Para más información visite: <http://arstechnica.com/tech-policy/2009/06/french-court-savages-3-strikes-law-tosses-it-out/> & <http://boingboing.net/2009/06/10/frances-three-strike.html>
+
+[8]: En la página de web de RedPaTodos (http://redpatodos.co/blog/un-repaso-sobre-la-ley-lleras/) es posible encontrar la recopilación sobre las diferentes solicitudes de la sociedadc ivil acerca de una reforma al derecho de autor.
+
+[9]: En el mundo se han realizado diferentes consultas al respecto: La ley canadiense de 2012, que es bastante equilibrada, fue fruto de un proceso de estos (<http://www.ic.gc.ca/eic/site/008.nsf/eng/h_04040.html>). En Inglaterra se adelantaron estas consultas en el 2012 (<http://webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/response-2011-copyright-final.pdf>) y el proceso de reforma está en curso. En Australia, se dio un proceso publico que finalizó en un informe <http://www.alrc.gov.au/sites/default/files/pdfs/publications/final_report_alrc_122_2nd_december_2013_.pdf>.
+
+[10]: Más información sobre este proceso en <http://redpatodos.co/blog/mesas-de-trabajo-con-mincit-para-leylleras4-apuntese/>
+
+[11]: Algunos riesgos de abuso de estos sistemas de notificación y retiro han sido advertidos internacionalmente, especialmente se ha señalado la posibilidad de su control por parte de regímenes de gobierno represivos, las iniciativas de activistas que podrían ser apaciguadas con un falso reporte, o las posibilidades existentes para ejercer actos de competencia desleal.
+
+[12]: Sentencia de la Corte Constitucional C-636 de 2009, M.P. Mauricio González Cuervo.

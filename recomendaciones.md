@@ -1,4 +1,4 @@
-#Recomendaciones para la garantía de los derechos humanos en una ley que regule la responsabilidad de intermediarios de internet en colombia (ley lleras)
+#Recomendaciones para la garantía de los derechos humanos en una ley que regule la responsabilidad de intermediarios de Internet en Colombia (Ley Lleras)
 
 En 2011, en su informe anual a la Asamblea General de la ONU, el Relator Especial de las Naciones Unidas (ONU) para la Libertad de Opinión y de Expresión, Frank La Rue, afirmó [1] que uno de los principales riesgos para el ejercicio de la libertad de expresión en Internet es la exigencia que se viene haciendo a los gobiernos a través de acuerdos comerciales (especialmente a través de los tratados de libre comercio -TLC) para implementar leyes dirigidas a los intermediarios de Internet[2]. Con estas se busca que los intermediarios los que controlen el contenido generado por sus usuarios, con el fin de identificar violaciones de los derechos de autor. El mecanismo de estas leyes es el de ofrecer un “puerto seguro” para los intermediarios de Internet si aplican un sistema de control. 
 
@@ -12,7 +12,7 @@ Con este propósito, la Fundación [Karisma](http://karisma.org.co), con el apoy
 * * *
 
 
-Una ley de puerto seguro que regule la exoneración de responsabilidad para los intermediarios de Internet, los prestadores de servicio de Internet (PSI) como se ha llamado en Colombia, debe considerar:
+Una ley de puerto seguro que regule la exoneración de responsabilidad para los intermediarios de Internet, los prestadores de servicio de Internet ([PSI](https://es.wikipedia.org/wiki/Proveedor_de_servicios_de_Internet)) como se ha llamado en Colombia, debe considerar:
 
 ## 1. Los acuerdos internacionales no deben limitar las posibilidades de los países de experimentar con modelos legales que garanticen la protección de los usuarios
 

@@ -6,9 +6,9 @@ En este repositorio encontrarás el trabajo realizado por la [Fundación Karisma
 Es un trabajo en progreso que se ecuentra en su versión beta (de prueba) por que queremos recibir comentarios que nos permitan fortalecerlo.
 
 ## Acciones que puedes hacer con este documento
-1. Puedes desacargar la versión en PDF para leerlo y consultarlo en su primera versión beta.
+1. Puedes desacargar la [versión en PDF](http://karisma.org.co/wp-content/uploads/2014/12/recomendaciones_beta_diciembre_11.pdf) para leerlo y consultarlo en su versión beta.
 2. Puedes crear tu propia versión de este documento (para ello te recomendamos crear una cuenta en GitHub y leer las instrucciones que encontrarás más adelante en este mismo texto).
-3. Puedes enviarnos tu versión (para ello, de nuevo, recomendamos utilizar GItHub).
+3. Puedes enviarnos tu versión (para ello, de nuevo, recomendamos utilizar GItHub y seguir las instrucciones).
 4. Puedes participar de la discusión del documento que se estará realizando a través de esta plataforma.
  
 ¡Contamos con tus aportes y comentarios!
@@ -19,11 +19,11 @@ Ten en cuenta que la etapa de comentarios inicia el 11 de diciembre de 2014 y ci
 El 10 de febrero entregaremos el documento final al gobierno y lo publicaremos en Internet, en los sitios web de las organizaciones y colectivos vinculados con el proyecto.
 
 ## Breve explicación del uso de GitHub
-Para muchos de los interesados en aportar sus comentarios en este proceso, GitHub, es plataforma nueva. con esto en mente, en este apartado les explicamos brevemente los pasos a seguir para generar su propia versión del documento y compartir con nosotros sus sugerencias y comentarios y por supuesto, seguir la discusión.
+Para muchos de los interesados en aportar sus comentarios en este proceso, GitHub, es plataforma nueva. Con esto en mente, en este apartado les explicamos brevemente los pasos a seguir para generar su propia versión del documento y compartir con nosotros sus sugerencias y comentarios y por supuesto, seguir la discusión.
 
-1. Crea una la cuenta en GitHub <https://github.com/join> o acceder a tu cuenta si ya la tienes <https://github.com/login>
+1. Crea una la cuenta en GitHub <https://github.com/join> o acceder a tu cuenta si ya tienes una <https://github.com/login>
 2. Entra al repositorio original de este documento <https://github.com/redpato2/recomendacionesLeyLleras/>
-3. Para crear tu propia versión del documento debes hacer un "fork", esto es, una copia de nuestra versión en tu cuenta, que podras modificar cuantas veces quieras, es tu versión.
+3. Para crear tu propia versión del documento debes hacer un "fork", esto es, una copia de nuestra versión en tu cuenta. Podrás hacer todas las modificaciones que quieras y cuantas veces quieras, es tu versión.
     * Recuerda revisar que vas a hacer una copia de la versión correcta, en la imagen aparece subrayada en amarillo.
     * Para hacer la copia solo debes hacer clic en la palabra "fork", en la imagen aparece en un recuadro rojo.
       ![fork](https://db.tt/18lTfQCp "fork")
@@ -45,8 +45,8 @@ Para muchos de los interesados en aportar sus comentarios en este proceso, GitHu
 7. Cuando tengas una versión que quieras compartir debes enviarla para que nosotros podamos conocerla y discutirla. Este paso es muy importante. 
     * Vuelve a tu repositorio. Haz clic en "recomendacionesLeyLleras" (las dos opciones aparecen en un recuadro rojo en la imagen)
       ![repositorio](https://db.tt/q1rk19wI "repositorio")
-    * Paver los cambios que hiciste con la versión original y enviarlos para aportar a la discusión, haz clic en "pull request" (en rojo en la imagen)
-      ![pull](https://db.tt/q1rk19wI "pull")
+    * Para ver los cambios que hiciste con la versión original y enviarlos para aportar a la discusión, haz clic en "pull request" (en rojo en la imagen)
+      ![pull](https://db.tt/3OeTCkcG "pull")
     * Te va a aparecer una nueva pantalla donde ves los cambios que realizaste comparados con el documento original, con fondo rojo lo que borraste y en fondo verde lo que agregaste
     * Para crear el comentario que vas a enviar, relacionado con tus cambios, haz clic en "create pull request" (en rojo en la imagen)
       ![crear comentario](https://db.tt/Lx9PY9W0 "crear comentario")

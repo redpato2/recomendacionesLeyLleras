@@ -1,6 +1,6 @@
 #Recomendaciones para la garantía de los derechos humanos en una ley que regule la responsabilidad de intermediarios de internet en colombia (ley lleras)
 
-En 2011, en su informe anual a la Asamblea General de la ONU, el Relator Especial de las Naciones Unidas (ONU) para la Libertad de Opinión y de Expresión, Frank La Rue, afirmó [1] que uno de los principales riesgos para el ejercicio de la libertad de expresión en Internet es la exigencia que se viene haciendo a los gobiernos a través de acuerdos comerciales (especialmente a través de los tratados de libre comercio -TLC) para implementar leyes dirigidas a los intermediarios de Internet. Con estas se busca que los intermediarios los que controlen el contenido generado por sus usuarios, con el fin de identificar violaciones de los derechos de autor. El mecanismo de estas leyes es el de ofrecer un “puerto seguro” para los intermediarios de Internet si aplican un sistema de control. 
+En 2011, en su informe anual a la Asamblea General de la ONU, el Relator Especial de las Naciones Unidas (ONU) para la Libertad de Opinión y de Expresión, Frank La Rue, afirmó [ˆ1] que uno de los principales riesgos para el ejercicio de la libertad de expresión en Internet es la exigencia que se viene haciendo a los gobiernos a través de acuerdos comerciales (especialmente a través de los tratados de libre comercio -TLC) para implementar leyes dirigidas a los intermediarios de Internet. Con estas se busca que los intermediarios los que controlen el contenido generado por sus usuarios, con el fin de identificar violaciones de los derechos de autor. El mecanismo de estas leyes es el de ofrecer un “puerto seguro” para los intermediarios de Internet si aplican un sistema de control. 
 
 Precisamente, pocos meses antes de que se conociera esta declaración, también durante 2011, el gobierno colombiano presentó un proyecto de ley que buscaba implementar un sistema de “Notificación y Retiro” de contenidos a cargo de los *proveedores de servicio de Internet* (PSI) del país, que tenía como modelo la ley de EEUU (*Digital Millennium Copyright Act* -DMCA). La ley se justificó como parte de las obligaciones del TLC firmado entre Colombia y los EEUU. El proyecto de ley fue cuestionado por la sociedad civil y desencadenó una resistencia en contra de la que se denominó como la “Ley Lleras 1”. Después de varios meses de polémica, el proyecto se archivó en el Congreso con argumentos que se referían a los riesgos que suponía para el ejercicio de la libertad de expresión. 
 
@@ -82,7 +82,7 @@ La ley colombiana de derecho de autor es la Ley 23 de 1982, con ajustes en la De
 
 Aumentar los mecanismos de cumplimiento del sistema de derecho de autor sin equilibrarlo con las garantías para el ejercicio de otros derechos por los usuarios (acceso al conocimiento, información, educación, ciencia, libertad de expresión, etcétera) amplía los desequilibrios del sistema especialmente en el entorno digital (que no ha sido actualizado) y por tanto unos no deben ir sin los otros. Por eso consideramos, a tono con lo que venimos discutiendo desde 2011, que Colombia debe hacer una reforma integral. Como resumen de lo que la reforma debe considerar en especial en relación con una ley de puerto seguro creemos que se deben considerar los siguientes puntos en concreto:
 
-  a. Incluir una cláusula abierta al estilo del fair use (uso justo) de EEUU. 
+  a. Incluir una cláusula abierta al estilo del *fair use* (uso justo) de EEUU. 
 
   En los Estados Unidos, la doctrina del “uso justo” permite a los individuos usar porciones de obras protegidas por el derecho de autor para propósitos académicos selectos o para otras aplicaciones seleccionadas, como la parodia, sin autorización. El “uso justo” es una defensa afirmativa en contra de las reclamaciones de infracciones de derecho de autor y es crucial para proteger la capacidad de los usuarios de innovar usando obras protegidas por el derecho de autor. 
 
@@ -171,3 +171,7 @@ Adicionalmente, establecer sanciones penales a los PSI genera algunos problemas 
 El hecho de que las sanciones propias del derecho penal sean restrictivas de la libertad, dificulta su aplicación a las personas jurídicas (como son los PSI), pues estas no tienen existencia física. 
 
 Por lo anterior, consideramos que las sanciones aplicables a los PSI en las leyes de “puerto seguro” no deben ser penales, deben limitarse a las  administrativas o civiles, es decir, consistentes en el pago de sumas de dinero, bien sea a título de multa en favor del Estado o de indemnización en favor del titular de derechos por los perjuicios que se le hayan efectivamente causado.
+
+###Notas
+[ˆ1]: A/HRC/17/27. 16 de mayo de 2011. Párr. 39 y 40. Disponible para consulta en <http://ap.ohchr.org/documents/dpage_s.aspx?m=85>
+

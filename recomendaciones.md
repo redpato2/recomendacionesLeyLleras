@@ -171,3 +171,5 @@ Adicionalmente, establecer sanciones penales a los PSI genera algunos problemas 
 El hecho de que las sanciones propias del derecho penal sean restrictivas de la libertad, dificulta su aplicación a las personas jurídicas (como son los PSI), pues estas no tienen existencia física. 
 
 Por lo anterior, consideramos que las sanciones aplicables a los PSI en las leyes de “puerto seguro” no deben ser penales, deben limitarse a las  administrativas o civiles, es decir, consistentes en el pago de sumas de dinero, bien sea a título de multa en favor del Estado o de indemnización en favor del titular de derechos por los perjuicios que se le hayan efectivamente causado.
+
+Mucha carreta. Por favor hacer la verisión ELI5.

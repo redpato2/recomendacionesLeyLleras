@@ -20,6 +20,8 @@ El 10 de febrero entregaremos el documento final al gobierno y lo publicaremos e
 
 ## Breve explicación del uso de GitHub
 
+Nelson está probando.
+
 Para enviar tus comentarios y participar de la posterior discusión, crea una cuenta en GitHub, haz un fork del proyecto, edita tu versión y luego publícala usando el botón de **Commit changes**.
 
 

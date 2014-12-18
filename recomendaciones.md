@@ -12,7 +12,7 @@ Con este propósito, la Fundación [Karisma](http://karisma.org.co), con el apoy
 * * *
 
 
-Una ley de puerto seguro que regule la exoneración de responsabilidad para los intermediarios de Internet, los prestadores de servicio de Internet (PSI) [que son las empresas que brinda conexión a Internet](http://es.wikipedia.org/wiki/Proveedor_de_servicios_de_Internet) se ha llamado en Colombia, debe considerar:
+Una ley de puerto seguro que regule la exoneración de responsabilidad para los intermediarios de Internet, los prestadores de servicio de Internet (PSI), [que son las empresas que brinda conexión a Internet](http://es.wikipedia.org/wiki/Proveedor_de_servicios_de_Internet), se ha llamado en Colombia, debe considerar:
 
 ## 1. Los acuerdos internacionales no deben limitar las posibilidades de los países de experimentar con modelos legales que garanticen la protección de los usuarios
 
